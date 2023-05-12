@@ -164,7 +164,7 @@ const Footer = () => {
 
          <div className='footerDiv flex'>
            <small>BEST TRAVEL WEBSITE THEME</small>
-           <small>COPYRIGHS RESERVED PotlapallyNagalaxmi 2022-<span class="copyright-date">2023</span></small>
+           <small>COPYRIGHS RESERVED PotlapallyNagalaxmi 2022-<span className="copyright-date">2023</span></small>
          </div> 
        </div>
      </div>
